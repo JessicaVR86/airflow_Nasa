@@ -6,7 +6,7 @@ from datetime import datetime
 def _generate_platzi_data(**kwargs):
     import pandas as pd
     data = pd.DataFrame({
-        "student": ["Maria Cruz", "Daniel Crema", "Elon Musk", "Karol Castrejon", "Freddy Vega"],
+        "student": ["Maria Perez", "Daniel Garcia", "Juan Valdes", "Carolina Casas", "Fernanda Vega"],
         "timestamp": [kwargs['logical_date']] * 5
     })
     data.to_csv(f"/tmp/platzi_data_{kwargs['ds_nodash']}.csv", index=False)
@@ -16,10 +16,10 @@ def _notificar(**kwargs):
 
 with DAG(
     dag_id="platzi_explora_espacio",
-    start_date=datetime(2024, 1, 1),
+    start_date=datetime(2020, 1, 1),
     schedule_interval="@daily",
     catchup=False,
-    description="Proyecto Platzi: recolectar datos del satélite y SpaceX"
+    description="Proyecto Platzi: recolectar datos del satélite."
 ) as dag:
 
     esperar_autorizacion = BashOperator(

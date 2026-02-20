@@ -1,0 +1,204 @@
+[2026-02-20T15:06:37.056+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2026-02-20T15:06:37.056+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2026-02-20T15:06:37.057+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-02-20T15:06:37.057+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-02-20T15:06:37.058+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2026-02-20 15:13:42,038] {manager.py:480} INFO - Processing files using up to 2 processes at a time 
+[2026-02-20 15:13:42,039] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2026-02-20 15:13:42,039] {manager.py:483} INFO - Checking for new files in /opt/airflow/dags every 100 seconds
+[2026-02-20 15:13:42,039] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2026-02-20 15:13:42,040] {manager.py:693} INFO - There are 0 files in /opt/airflow/dags
+[2026-02-20 15:15:22,525] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2026-02-20 15:15:22,525] {manager.py:693} INFO - There are 0 files in /opt/airflow/dags
+[2026-02-20 15:17:03,165] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2026-02-20 15:17:03,166] {manager.py:693} INFO - There are 0 files in /opt/airflow/dags
+[2026-02-20 15:18:43,891] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2026-02-20 15:18:43,892] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2026-02-20 15:18:59,552] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           0           1  0.05s           2026-02-20T15:18:55
+================================================================================
+[2026-02-20 15:19:28,368] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           0           1  0.04s           2026-02-20T15:19:27
+================================================================================
+[2026-02-20 15:19:57,245] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           0           1  0.03s           2026-02-20T15:19:46
+================================================================================
+[2026-02-20 15:20:24,427] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2026-02-20 15:20:24,429] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2026-02-20 15:20:26,106] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py    413  0.01s             0           1  0.05s           2026-02-20T15:20:22
+================================================================================
+[2026-02-20 15:20:56,340] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           0           1  0.04s           2026-02-20T15:20:54
+================================================================================
+[2026-02-20 15:21:25,260] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py    473  0.00s             0           1  0.06s           2026-02-20T15:21:17
+================================================================================
+[2026-02-20 15:21:54,199] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           1           0  0.14s           2026-02-20T15:21:51
+================================================================================
+[2026-02-20 15:22:04,939] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2026-02-20 15:22:04,941] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2026-02-20 15:22:23,149] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           0           1  0.04s           2026-02-20T15:22:22
+================================================================================
+[2026-02-20 15:22:52,171] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           1           0  0.06s           2026-02-20T15:22:51
+================================================================================
+[2026-02-20 15:23:21,102] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           0           1  0.04s           2026-02-20T15:23:19
+================================================================================
+[2026-02-20 15:23:45,143] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2026-02-20 15:23:45,144] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2026-02-20 15:23:50,166] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           1           0  0.07s           2026-02-20T15:23:41
+================================================================================
+[2026-02-20 15:24:19,465] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           0           1  0.04s           2026-02-20T15:24:18
+================================================================================
+[2026-02-20 15:24:48,250] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           0           1  0.04s           2026-02-20T15:24:43
+================================================================================
+[2026-02-20 15:25:17,079] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           1           0  0.07s           2026-02-20T15:25:16
+================================================================================
+[2026-02-20 15:25:25,174] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2026-02-20 15:25:25,175] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2026-02-20 15:25:45,950] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           1           0  0.07s           2026-02-20T15:25:32
+================================================================================
+[2026-02-20 15:26:14,691] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           1           0  0.08s           2026-02-20T15:26:03
+================================================================================
+[2026-02-20 15:26:43,455] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           1           0  0.09s           2026-02-20T15:26:33
+================================================================================
+[2026-02-20 15:27:05,575] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2026-02-20 15:27:05,576] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2026-02-20 15:27:12,258] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           1           0  0.08s           2026-02-20T15:27:04
+================================================================================
+[2026-02-20 15:27:40,895] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           1           0  0.11s           2026-02-20T15:27:35
+================================================================================
+[2026-02-20 15:28:09,710] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           1           0  0.08s           2026-02-20T15:28:06
+================================================================================
+[2026-02-20 15:28:38,677] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           1           0  0.08s           2026-02-20T15:28:37
+================================================================================
+[2026-02-20 15:28:45,701] {manager.py:690} INFO - Searching for files in /opt/airflow/dags
+[2026-02-20 15:28:45,702] {manager.py:693} INFO - There are 1 files in /opt/airflow/dags
+[2026-02-20 15:29:08,785] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/proyecto_platzi.py                           1           0  0.13s           2026-02-20T15:28:56
+================================================================================
